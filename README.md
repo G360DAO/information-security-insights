@@ -14,8 +14,8 @@ determining which features will be proposed to the DAO to develop.
 Do you believe in building a like-minded security community that should be rewarded for their contributions? Do you believe your voice in security decisions needs to be heard? Do you believe we as a community should work on raising the bar for security in general with real solutions? If you are screaming yes to all those questions and are you a hacker, security engineer, developer, or think you can contribute in any shape or form, then we welcome you to join the Guardian360 DAO mission via [Discord](https://discord.gg/Gt8P9AdQTM) and [Telegram](https://t.me/guardian360dao)!
 
 Other sources:
-* [Guardian360 DAO Website](www.guardian360.io)
-* [Guardian360 DAO Website](www.guardian360.eth)
+* [Guardian360 DAO Website](https://www.guardian360.io)
+* [Guardian360 DAO Website](https://www.guardian360.eth)
 * [Github](https://github.com/guardian360dao)
 * [Medium](https://medium.com/guardian360dao)
 * [Reddit](https://www.reddit.com/r/Guardian360DAO)
