@@ -2,11 +2,11 @@
 
 This repository contains a longlist of feature requests within Guardian360 DAO.
 
-We invite everyone to add feature requests as issue to the repository.
+We invite everyone to [add feature requests](https://github.com/Guardian360DAO/information-security-insights/issues/new/choose) as issue to the repository.
 As long as the issue is covering an information security related feature ;-)
 
 Please feel free to vote a feature up or down by giving it a thumbs up or down.
-The Guardian360 DAO council will look at the amount of thumbs up and down when 
+The Guardian360 DAO council will look [at the amount of thumbs up and down](https://github.com/Guardian360DAO/information-security-insights/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) when 
 determining which features will be proposed to the DAO to develop.
 
 ## Join the Community
