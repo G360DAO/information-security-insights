@@ -16,7 +16,7 @@ Do you believe in building a like-minded security community that should be rewar
 Other sources:
 * [Guardian360 DAO Website](https://www.guardian360.io)
 * [Guardian360 DAO Website](https://www.guardian360.eth)
-* [dicsord](https://discord.gg/Gt8P9AdQTM)
+* [Discord](https://discord.gg/Gt8P9AdQTM)
 * [Github](https://github.com/guardian360dao)
 * [Medium](https://medium.com/guardian360dao)
 * [Reddit](https://www.reddit.com/r/Guardian360DAO)
