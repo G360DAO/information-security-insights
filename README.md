@@ -12,6 +12,7 @@ determining which features will be proposed to the DAO to develop.
 ## Table of contents
 
 * [Generic security insights requirements](GENERIC_REQUIREMENTS.md)
+* [Scanner requirements](SCANNER_REQUIREMENTS.md)
 
 ## Join the Community
 
