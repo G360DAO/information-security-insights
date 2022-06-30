@@ -23,6 +23,7 @@ Other sources:
 * [Guardian360 DAO Website](https://www.guardian360.eth)
 * [Discord](https://discord.gg/Gt8P9AdQTM)
 * [Github](https://github.com/guardian360dao)
+* [Guardian360 DAO blog](https://mirror.xyz/guardian360dao.eth)
 * [Medium](https://medium.com/guardian360dao)
 * [Reddit](https://www.reddit.com/r/Guardian360DAO)
 * [Twitter](https://twitter.com/Guardian360DAO)
