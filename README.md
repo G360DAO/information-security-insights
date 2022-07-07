@@ -11,7 +11,8 @@ determining which features will be proposed to the DAO to develop.
 
 ## Table of contents
 
-* [Generic security insights requirements](GENERIC_REQUIREMENTS.md)
+* [Legal requirements](LEGAL_REQUIREMENTS.md)
+* [Generic information security insights requirements](GENERIC_REQUIREMENTS.md)
 * [Scanner requirements](SCANNER_REQUIREMENTS.md)
 
 ## Join the Community
@@ -25,5 +26,6 @@ Other sources:
 * [Github](https://github.com/guardian360dao)
 * [Guardian360 DAO blog](https://mirror.xyz/guardian360dao.eth)
 * [Medium](https://medium.com/guardian360dao)
+* [Mirror](https://mirror.xyz/guardian360dao.eth)
 * [Reddit](https://www.reddit.com/r/Guardian360DAO)
 * [Twitter](https://twitter.com/Guardian360DAO)
