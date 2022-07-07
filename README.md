@@ -11,6 +11,7 @@ determining which features will be proposed to the DAO to develop.
 
 ## Table of contents
 
+* [License](LICENSE.md)
 * [Legal requirements](LEGAL_REQUIREMENTS.md)
 * [Generic information security insights requirements](GENERIC_REQUIREMENTS.md)
 * [Scanner requirements](SCANNER_REQUIREMENTS.md)
