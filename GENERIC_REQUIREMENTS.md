@@ -1,4 +1,4 @@
-# Generic security insight requirements
+# Generic information security insight requirements
 
 ## Documentation
 
