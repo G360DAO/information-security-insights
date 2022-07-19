@@ -6,9 +6,9 @@ Cases that include commercialization of Guardian360 DAO information security ins
 
 1. Definitions
 
-1.1 "License" means this document.
-1.2 "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns Guardian360 DAO.
-1.3 "Guardian360 DAO Team" means Guardian360 DAO’s core developers.
+ 1 "License" means this document.
+ 2 "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns Guardian360 DAO.
+ 3 "Guardian360 DAO Team" means Guardian360 DAO’s core developers.
 
 2. Commercialization
 
