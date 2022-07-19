@@ -5,7 +5,6 @@ The Guardian360 DAO software is dual-licensed - Copyright 2022 Guardian360 DAO T
 Cases that include commercialization of Guardian360 DAO information security insight applications, other software and intellectual property require a commercial, non-free license. Otherwise, Guardian360 DAO information security insight applications, other software and intellectual property can be used without charge under the terms set out below.
 
 1. Definitions
-
   1 "License" means this document.
   2 "Contributor" means each individual or legal entity that creates, contributes to the creation of, or owns Guardian360 DAO.
   3 "Guardian360 DAO Team" means Guardian360 DAO’s core developers.
