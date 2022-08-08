@@ -38,7 +38,7 @@ This License is governed by the Laws of the Netherlands.
 
 ## Legal requirements
 
-Contributors are required to to comply with the [Legal Requirements]([Information Security Insight applications, other software and intellectual property](LEGAL_REQUIREMENTS.md)) of Guardian360 DAO.
+Contributors are required to to comply with the [Legal Requirements](LEGAL_REQUIREMENTS.md) of Guardian360 DAO.
 
 ## Free-use Terms and Conditions;
 
